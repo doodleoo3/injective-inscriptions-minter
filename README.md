@@ -1,0 +1,2 @@
+# injective-inscriptions-minter
+ 
